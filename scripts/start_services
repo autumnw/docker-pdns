@@ -1,0 +1,5 @@
+service mysqld start
+service pdns start
+service httpd start
+/usr/bin/pdnsrestserver
+
